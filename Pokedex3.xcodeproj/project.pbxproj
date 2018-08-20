@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44229E19212B2A6F001BF1E0 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 44229E18212B2A6F001BF1E0 /* pokemon.csv */; };
 		44EC9C59212AFA7000F3EDBB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EC9C58212AFA7000F3EDBB /* AppDelegate.swift */; };
 		44EC9C5B212AFA7000F3EDBB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EC9C5A212AFA7000F3EDBB /* ViewController.swift */; };
 		44EC9C5E212AFA7000F3EDBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44EC9C5C212AFA7000F3EDBB /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44229E18212B2A6F001BF1E0 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		44EC9C55212AFA6F00F3EDBB /* Pokedex3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pokedex3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44EC9C58212AFA7000F3EDBB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44EC9C5A212AFA7000F3EDBB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				44EC9C5A212AFA7000F3EDBB /* ViewController.swift */,
 				44EC9C5C212AFA7000F3EDBB /* Main.storyboard */,
 				44EC9C5F212AFA7000F3EDBB /* Assets.xcassets */,
+				44229E18212B2A6F001BF1E0 /* pokemon.csv */,
 				44EC9C61212AFA7000F3EDBB /* LaunchScreen.storyboard */,
 				44EC9C64212AFA7000F3EDBB /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				44EC9C63212AFA7000F3EDBB /* LaunchScreen.storyboard in Resources */,
 				44EC9C60212AFA7000F3EDBB /* Assets.xcassets in Resources */,
+				44229E19212B2A6F001BF1E0 /* pokemon.csv in Resources */,
 				44EC9C5E212AFA7000F3EDBB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
